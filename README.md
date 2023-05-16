@@ -58,9 +58,24 @@ sns.histplot(x='Postal Code',data=df)
 # DATA INFORMATION
 ![image](https://github.com/swethasurendar/Ex03-Univariate-Analysis/assets/133625914/99b2e591-60dd-424e-8c00-ce2b09ce2698)
 # DATA DESCRIBE
+![image](https://github.com/swethasurendar/Ex03-Univariate-Analysis/assets/133625914/e33b02f9-dd57-401e-a825-1afdff06405e)
 # DATA NULL VALUES
 ![image](https://github.com/swethasurendar/Ex03-Univariate-Analysis/assets/133625914/323c6511-860c-4728-ac81-6665781ffdce)
-# DATA'S DATATYPES
+# DATA'S VALUECOUNT
+![image](https://github.com/swethasurendar/Ex03-Univariate-Analysis/assets/133625914/d072f3dd-532e-49cf-98dd-1f210103753b)
+# BOXPLOT
+![image](https://github.com/swethasurendar/Ex03-Univariate-Analysis/assets/133625914/c5f1e312-ca0e-4455-b291-b2a54aa382c5)
+# COUNTPLOT
+![image](https://github.com/swethasurendar/Ex03-Univariate-Analysis/assets/133625914/dd49966d-38cb-46ad-b371-bd91a8341275)
+# DISTRIBUTION PLOT
+![image](https://github.com/swethasurendar/Ex03-Univariate-Analysis/assets/133625914/6810c1bd-172d-49ce-858d-480c3dca17df)
+# HISTOGRAM PLOT
+![image](https://github.com/swethasurendar/Ex03-Univariate-Analysis/assets/133625914/6ebcf9a4-0b60-4381-9c63-245a64eef9d0)
+# Result
+Thus we have read the given data and performed the univariate analysis with different types of plots.
 
-#
+
+
+
+
 
